@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    margin-top: 19px;
+    width: 100%;
+    height: 50px;
+}
+
+.choose {
+    float: right;
+    margin-right: 20px;
+}
+
+a:link {
+    color: #262626;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #262626;
+    font-size: 15px;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #262626;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.choose1 {
+    margin-right: 15px;
+}
+
+.choose2 {
+    margin-right: 15px;
+}
+
+#box {
+    margin: 0 auto;
+    width: 670px;
+    margin-top: 120px;
+    margin-bottom: 25px;
+}
+
+.logo {
+    width: 100%;
+    margin-left: 199px;
+}
+
+.frame {
+    margin-top: 10px;
+    width: 100%;
+    height: 37px;
+    /*background-image: url("./pictures/voice.png");*/
+}
+.input-frame {
+    position: relative;
+}
+.voice {
+    position: absolute;
+    right: 0;
+    top: 18px;
+}
+input:link {
+    border-color: #cccccc;
+}
+
+input:focus {
+    outline-color: lightskyblue;
+
+}
+.display-frame{
+    margin-top: 67px;
+}
+.box1{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    float: left;
+}
+.box2{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    margin-left: 17px;
+    float: left;
+}
+.box3{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    margin-left: 17px;
+    float: left;
+}
+.box4{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    margin-left: 17px;
+    float: left;
+}
+.box5{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    float: left;
+    margin-top: 18px;
+}
+.box6{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    margin-left: 17px;
+    float: left;
+    margin-top: 18px;
+}
+.box7{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    margin-left: 17px;
+    float: left;
+    margin-top: 18px;
+}
+.box8{
+    width: 152px;
+    height: 126px;
+    border: 1px solid #cccccc;
+    margin-left: 17px;
+    float: left;
+    margin-top: 18px;
+}
